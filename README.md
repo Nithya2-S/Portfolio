@@ -14,7 +14,7 @@ SQL | Power BI | Excel | Python | Data Visualization | Data Cleaning & Analysis
 
 I enjoy transforming raw data into meaningful insights that support better business decisions. Through my projects and portfolio, I aim to demonstrate my ability to analyze data, identify patterns, and present insights through interactive dashboards and reports.
 
-I am always eager to learn new technologies and explore opportunities where I can apply data-driven thinking to solve real-world problems.
+**I am always eager to learn new technologies and explore opportunities where I can apply data-driven thinking to solve real-world problems.**
 
 ---
 
